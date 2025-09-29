@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rvittori! 👋
 
-<!--
-**Rvittori/Rvittori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a new Python programming student who is passionate about learning!
 
-Here are some ideas to get you started:
+![Rvittori's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Python Application Developer Certificate.
+
+
+## 🌱 Currently Exploring
+
+  - 🚀 Learning Python, Java, and SQL
+
+
+Thanks for stopping by! 
