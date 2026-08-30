@@ -9,7 +9,8 @@ I am a recent programming graduate who is passionate about learning!
 
 ## 🌱 Currently Exploring
 
-  - 🚀 Learning Java, Python, SQL, HTML, CSS, JavaScript
+  - Improving on Java, Python, SQL, HTML, CSS, and JavaScript
+  - Currently learning Spring Boot
 
 
 Thanks for stopping by! 
