@@ -1,15 +1,15 @@
-# Hi, I'm Rvittori! 👋
+# Hi, I'm Rita! 👋
 
-I am a programming student who is passionate about learning!
+I am a recent programming graduate who is passionate about learning!
 
 ## 🚀 About Me
 
-- 🔭 I have recently earned my Python Application Developer Certificate and I am working on my Java Application Developer Certificate.
+- 🔭 I have recently earned a certificate in Java and Python application development. 
 
 
 ## 🌱 Currently Exploring
 
-  - 🚀 Learning Python, Java, and SQL
+  - 🚀 Learning Java, Python, SQL, HTML, CSS, JavaScript
 
 
 Thanks for stopping by! 
